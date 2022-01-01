@@ -6,13 +6,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Finance and Mathematics at Namangan State University.
-- 🌱 &nbsp; Learning more about PHP, Python and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Nodejs, Javascript, PHP, Python and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Problem Solving and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-   PYTHON ,DJANGO ,PHP ,LARAVEL, RESTFULL API, PYTHON, GOLANG
+   NODEJS, EXPRESSJS, PYTHON, DJANGO, PHP, LARAVEL, RESTFULL API, 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
