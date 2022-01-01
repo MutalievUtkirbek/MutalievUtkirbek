@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Finance and Mathematics at Namangan State University.
-- 💼 &nbsp; Working as a Junior Backend developer at Smart Software.
 - 🌱 &nbsp; Learning more about PHP, Python and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Problem Solving and Blog Writing as hobbies/side hustles.
 
