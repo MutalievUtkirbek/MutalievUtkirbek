@@ -43,7 +43,7 @@
 </a>
 
 <br/>
-<a src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png">⏱️</a>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
